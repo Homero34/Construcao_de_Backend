@@ -1,6 +1,6 @@
 const {MongoClient} = require('mongodb');
 
-const url = "mongodb+srv://arthursilva3_db_user:database@cluster0.ya7jadv.mongodb.net/";
+const url = "mongodb+srv://teste:senhateste@cluster0.ya7jadv.mongodb.net/";
 
 const client = new MongoClient(url);
 
